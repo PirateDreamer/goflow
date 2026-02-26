@@ -1,0 +1,4 @@
+server:
+  port: 8080
+database:
+  dsn: "user:password@tcp(127.0.0.1:3306)/goflow?charset=utf8mb4&parseTime=True&loc=Local"
