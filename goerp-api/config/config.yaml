@@ -1,0 +1,17 @@
+server:
+  port: 8080
+database:
+  dsn: "goerp:CddWwNwF4GKtbCW8@tcp(43.134.168.176:3306)/goerp?charset=utf8mb4&parseTime=True&loc=Local"
+redis:
+  addr: "127.0.0.1:6379"
+  password: ""
+  db: 0
+email:
+  host: "smtp.example.com"
+  port: 587
+  user: "user@example.com"
+  password: "password"
+  from: "no-reply@example.com"
+swagger:
+  user: "admin"
+  password: "admin123"
